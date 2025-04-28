@@ -1,0 +1,14 @@
+[user]
+    #so I am a little confused, I belive that I have the wrong longin
+    #this name should be Squamis I belive
+	name = haffent1
+	email = 50844313+haffent1@users.noreply.github.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[credential]
+	helper = store
+[core]
+	editor = vim

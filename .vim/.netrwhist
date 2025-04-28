@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/thomashaffenreffer/dotfiles/.git'
+let g:netrw_dirhist_0='/home/thomashaffenreffer/Desktop/books'
+let g:netrw_dirhist_9='/home/thomashaffenreffer/Thomas_H_Shared/coding/.git'
+let g:netrw_dirhist_8='/home/thomash/Thomas_H_Shared/Denison/spring2021/Datasystems/cs181-s21/homework/HW_5.1'
+let g:netrw_dirhist_7='/home/thomash/Thomas_H_Shared/Denison/spring2021/Datasystems/cs181-s21/homework/HW_5.2'
+let g:netrw_dirhist_6='/home/thomash/Thomas_H_Shared/Denison/spring2021/DataStructures'
+let g:netrw_dirhist_5='/home/thomash/.vim'
+let g:netrw_dirhist_4='/home/thomash/Thomas_H_Shared/Denison/Past semesters/fall2020/MathForCompSci/homeworks/Hw5'
+let g:netrw_dirhist_3='/home/thomash/Thomas_H_Shared/Denison/spring2021/Datasystems/cs181-s21/homework/HW_2.3'
+let g:netrw_dirhist_2='/home/thomash/.vim'

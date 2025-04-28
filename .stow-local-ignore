@@ -1,0 +1,3 @@
+
+# ignore the bootstrap file so that it does not show up within my home dir
+bootstrap.sh
